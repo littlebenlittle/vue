@@ -1,6 +1,6 @@
-# vue-cli
+# vue
 
-wrapper for `vue` command
+wrapper for `vue` [command](https://cli.vuejs.org/).
 
 ## Use
 
